@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+title                    : "Xiaobo Liu"
 title_separator          : "-"
 name                     : &name "Xiaobo Liu"
 description              : &description "Ph.D student at The University of Manchester"
