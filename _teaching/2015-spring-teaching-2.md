@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "MATH20401: PDEs and Vector Calculus A"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate tutorial sesssions"
+permalink: /teaching/2018-MATH20401
+venue: "The University of Manchester, School of Mathematics"
+date: 2018
+location: "Manchester, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The first half of this course equips students with the fundamental tools required in order to solve simple partial differential equations (PDEs). This includes important aspects of vector calculus (curvilinear coordinates and integral theorems) as well as Fourier series and an understanding of how to classify PDEs and what this classification means physically. The method of characteristics is then introduced in order to solve First order quasi-linear PDEs. The second half of the course focuses on solving second order PDEs (mainly Laplaceâ€'s equation, the heat equation and the wave equation), first analytically by employing separation of variables and then numerically by introducing the topic of finite difference methods.
 
-Heading 1
+Syllabus
 ======
 
-Heading 2
-======
+Section 1: Introduction and motivation. What are PDEs? Why study them? Some examples and applications.
 
-Heading 3
-======
+Section 2: Vector calculus in curvilinear coordinates. Introduction to general formalism of switching from Cartesian to curvilinear coordinate systems. Basis vectors, line, surface and volume elements. Grad, div, curl and transforming to curvilinear coordinates. Surface and volume integrals in three dimensions. Gauss (divergence) and Stokes' theorems in three dimensions.
+
+Section 3: Classification of PDEs. Classification as order, scalar/vector, homogeneous/inhomogeneous, linear/semi-linear/quasi-linear/nonlinear. PDE type: 2nd order in two independent variables (elliptic, hyperbolic, parabolic, mixed), canonical forms, extension to n variables, 1st order system of PDEs. Characteristics. Cauchy problem, well-posedness, choice of boundary and initial conditions.
+
+Section 4: First order PDEs. Scalar first order pdes in two variables. Linear constant coefficient, Dâ€'Alembert. Method of characteristics for semi-linear and quasi-linear equations.
+
+Section 5: Fourier series. Motivation via œtrial separation of variables solution for homogeneous heat equation in 1D with homogeneous boundary conditions, general initial profile. General concepts of eigenvalues/eigenfunctions, orthogonality. Fourier series, sine and cosine series and associated Fourier (Dirichlet) theorem regarding piecewise-smooth functions, orthogonality. Differentiating and integrating.
+
+Section 6: Separation of variables for second order PDEs. Separation of variables for homogeneous heat and wave equation in curvilinear coordinates with homogeneous BCs and inhomogeneous initial conditions. Separation of variables for Laplace's equation with inhomogeneous BCs. Link with Sturm Liouville eigenvalue problems. Special functions: circular functions, Bessel functions, Legendre polynomials, Chebyshev polynomials, Frobenius' method.
+
+Section 7: Numerical solution of PDEs. Finite difference methods. Link with solutions obtained in Section 4, 6 and 7. Explicit and implicit schemes and the theta method, truncation error, stability and convergence, Crank Nicholson, convection-diffusion problems, upward differencing.
