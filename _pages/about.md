@@ -12,9 +12,10 @@ Hi, I am a first year Ph.D student in the [Numerical Linear Algebra group](https
 The fundamental goal of my research is to compute [functions of matrices](https://en.wikipedia.org/wiki/Matrix_function) in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes [the half precision arithmetic](https://en.wikipedia.org/wiki/Half-precision_floating-point_format) that is becoming prevalent on GPUs and arbitrary precision arithmetic.
 
 ## Teaching
-▪  2018/19 &nbsp; Semester 1 &nbsp; Teaching assistant for MATH20401 [PDEs and Vector Calculus A](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401).
-
-
+▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for MATH10222 [Calculus and Applications A](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10222).  
+▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for MATH19842 [Mathematics 0F2](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/service-teaching/foundation-studies/course-unit-spec/?unitcode=MATH19842).  
+▪ 2018/19 Semester 2 &nbsp; Teaching assistant for MATH36022 [Numerical Analysis II](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-mmath/course-unit-spec/?unitcode=MATH36022).  
+▪ 2018/19 Semester 1 &nbsp; Teaching assistant for MATH20401 [PDEs and Vector Calculus A](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401).
 
 ## Links
 
