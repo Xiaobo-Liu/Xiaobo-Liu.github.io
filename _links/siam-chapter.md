@@ -1,12 +1,9 @@
 ---
-title: "IF101 (Falls 2012 and 2013)"
-collection: links
-type: "Undergraduate tutorial sesssions"
-permal: /links/2012-IF101
-venue: "ENSEIRB-MATMECA, Department of Computer Science"
-date: 2012-10-01
-location: "Bordeaux, France "
+title: "MATH20401: [PDEs and Vector Calculus A](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401) (2018/19 Semester 1)"
+collection: teaching
+type: "Teaching assistant"
+permalink: /teaching/
+venue: "The University of Manchester, School of Mathematics"
+date: 2018-10-10
+location: "Manchester, UK"
 ---
-
-The aim of the course is to provide an introduction to solving problems through simple algorithms,
-in particular the sorting problems.
