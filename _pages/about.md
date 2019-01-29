@@ -14,12 +14,18 @@ The fundamental goal of my research is to compute functions of matrices in multi
 
 ## Contact details
 
-2.111 [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/)
+2.111 [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/) 
+
 [The University of Manchester](https://www.manchester.ac.uk/)
+
 [School of Mathematics](http://www.maths.manchester.ac.uk/)
+
 Oxford Road
+
 Manchester
+
 M13 9PL
+
 UK
 
 Email: xiaobo.liu [at] manchester.ac.uk
