@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xiaobo Liu - School of Mathematics, University of Manchester"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
