@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Xiaobo Liu"
 title_separator          : "-"
 name                     : &name "Xiaobo Liu"
@@ -82,16 +82,16 @@ author:
   name             : "Xiaobo Liu"
   avatar           : "profile.png"
   bio              : "Ph.D Student in the School of Mathematics at The University of Manchester"
-  location         : "Manchester, UK"
+  location         : "[Manchester, UK](https://en.wikipedia.org/wiki/Manchester)"
   employer         :
   googlescholar    : 
-  email            : "xiaobo.liu@postgrad.manchester.ac.uk"
+  email            : "xiaobo.liu@manchester.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/xiaobo.liu.0731"
   foursquare       :
   github           : "Xiaobo-Liu"
   google_plus      :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-8470-8388"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
