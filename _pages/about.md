@@ -17,7 +17,7 @@ The fundamental goal of my research is to compute [functions of matrices](https:
 &nbsp; [Mittag-Leffler (matrix) functions](https://en.wikipedia.org/wiki/Mittag-Leffler_function)
 
 ## Teaching
-▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10222) Calculus and Applications A 
+▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10222) Calculus and Applications A  
 ▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH19842](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/service-teaching/foundation-studies/course-unit-spec/?unitcode=MATH19842) Mathematics 0F2  
 ▪ 2018/19 Semester 2 &nbsp; Teaching assistant for [MATH36022](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-mmath/course-unit-spec/?unitcode=MATH36022) Numerical Analysis II  
 ▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401) PDEs and Vector Calculus A
