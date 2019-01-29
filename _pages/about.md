@@ -12,9 +12,9 @@ Hi, I am a first year Ph.D student in the [Numerical Linear Algebra group](https
 The fundamental goal of my research is to compute [functions of matrices](https://en.wikipedia.org/wiki/Matrix_function) in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes [the half precision arithmetic](https://en.wikipedia.org/wiki/Half-precision_floating-point_format) that is becoming prevalent on GPUs and arbitrary precision arithmetic.
 
 ## Current Research Interests
-- [Numerical Analysis](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/)  
-- [Numerical Linear Algebra](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/numerical-linear-algebra/)  
-  - [Mittag-Leffler (matrix) functions](https://en.wikipedia.org/wiki/Mittag-Leffler_function)
+▪ [Numerical Analysis](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/)  
+▪ [Numerical Linear Algebra](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/numerical-linear-algebra/)  
+&nbsp; &nbsp; [Mittag-Leffler (matrix) functions](https://en.wikipedia.org/wiki/Mittag-Leffler_function)
 
 ## Teaching
 ▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10222) Calculus and Applications A  
