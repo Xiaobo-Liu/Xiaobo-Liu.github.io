@@ -23,7 +23,7 @@ The fundamental goal of my research is to compute [functions of matrices](https:
 ▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401] PDEs and Vector Calculus A(http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401)
 
 ## Links
-▪ Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!
+▪ Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!  
 ▪ Member of [SIAM](https://www.siam.org/) (Society for Industrial and Applied Mathematics).
 
 ## Contact details
