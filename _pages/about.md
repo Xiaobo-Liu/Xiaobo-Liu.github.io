@@ -13,7 +13,7 @@ The fundamental goal of my research is to compute [functions of matrices](https:
 
 ## Contact details
 
-Room 2.111, [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/)  
+Office 2.111, [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/)  
 [School of Mathematics](http://www.maths.manchester.ac.uk/)  
 [The University of Manchester](https://www.manchester.ac.uk/)  
 Manchester, M13 9PL, UK  
