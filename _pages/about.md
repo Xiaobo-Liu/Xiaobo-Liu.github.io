@@ -15,9 +15,8 @@ The fundamental goal of my research is to compute [matrix functions](https://en.
 ▪ [Numerical Linear Algebra](http://https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
 
 ## Current Teaching
-▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B  
-▪ 2020/21 Semester 1 &nbsp; Teaching assistant for [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization
-
+▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B   
+▪ 2020/21 Semester 1 &nbsp; Teaching assistant for [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization  
 ## Previous Teaching
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I  
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
@@ -32,7 +31,7 @@ The fundamental goal of my research is to compute [matrix functions](https://en.
 ▪ [A Multiprecision Derivative-Free Schur-Parlett Algorithm for Computing Matrix Functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
 
 ## Links
-▪ Nick Higham's [blog](https://nhigham.com/) on applied mathematics, software and workflow. 
+▪ Nick Higham's [blog](https://nhigham.com/) on applied mathematics, software and workflow.   
 ▪ Welcome to join [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/).
 
 ## Contact details
