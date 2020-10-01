@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 Hello! I am a Ph.D student in the [Numerical Linear Algebra group](https://nla-group.org/) at the School of Mathematics, University of Manchester, supervised by Prof. [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham/index.php) and co-supervised by Prof. [Francoise Tisseur](http://www.maths.manchester.ac.uk/~ftisseur/).  
-The fundamental goal of my research is to compute [matrix functions](https://en.wikipedia.org/wiki/Matrix_function) in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes [the half precision arithmetic](https://en.wikipedia.org/wiki/Half-precision_floating-point_format) that is becoming prevalent on GPUs and arbitrary precision arithmetic.
+The fundamental goal of my research is to compute matrix functions in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes the half precision arithmetic that is becoming prevalent on GPUs and arbitrary precision arithmetic.
 
-## Current Research Interests
+## Research Interests
 ▪ [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/)  
-▪ [Numerical Linear Algebra](http://https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
+▪ [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
+▪ Numerical Algorithms
 
 ## Current Teaching
 ▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B   
@@ -31,11 +32,10 @@ The fundamental goal of my research is to compute [matrix functions](https://en.
 ▪ [A multiprecision derivative-free Schur-Parlett algorithm for computing matrix functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
 
 ## Links
-▪ Nick Higham's [blog](https://nhigham.com/) on applied mathematics, software and workflow.   
-▪ Welcome to join [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/).
+▪ [Nick Higham's blog](https://nhigham.com/) on applied mathematics, software and workflow.   
+▪ I am the webmaster of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/).  
 
 ## Contact details
-
 Office 2.111, [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/)  
 [School of Mathematics](http://www.maths.manchester.ac.uk/)  
 [The University of Manchester](https://www.manchester.ac.uk/)  
