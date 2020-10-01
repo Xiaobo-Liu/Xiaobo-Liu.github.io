@@ -7,23 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a first year Ph.D student in the [Numerical Linear Algebra group](https://nla-group.org/) at the School of Mathematics, University of Manchester, supervised by Professor [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham/index.php) and co-supervised by Professor [Francoise Tisseur](http://www.maths.manchester.ac.uk/~ftisseur/).
+Hello! I am a Ph.D student in the [Numerical Linear Algebra group](https://nla-group.org/) at the School of Mathematics, University of Manchester, supervised by Prof. [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham/index.php) and co-supervised by Prof. [Francoise Tisseur](http://www.maths.manchester.ac.uk/~ftisseur/).
 
-The fundamental goal of my research is to compute [functions of matrices](https://en.wikipedia.org/wiki/Matrix_function) in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes [the half precision arithmetic](https://en.wikipedia.org/wiki/Half-precision_floating-point_format) that is becoming prevalent on GPUs and arbitrary precision arithmetic.
+The fundamental goal of my research is to compute [matrix functions](https://en.wikipedia.org/wiki/Matrix_function) in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes [the half precision arithmetic](https://en.wikipedia.org/wiki/Half-precision_floating-point_format) that is becoming prevalent on GPUs and arbitrary precision arithmetic.
 
 ## Current Research Interests
-▪ [Numerical Analysis](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/)  
-▪ [Numerical Linear Algebra](http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/our-research/numerical-linear-algebra/)  
-&nbsp; &nbsp; [Mittag-Leffler (matrix) functions](https://en.wikipedia.org/wiki/Mittag-Leffler_function)
+▪ [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/)  
+▪ [Numerical Linear Algebra](http://https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
 
-## Teaching
-▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10222) Calculus and Applications A  
-▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH19842](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/service-teaching/foundation-studies/course-unit-spec/?unitcode=MATH19842) Mathematics 0F2  
-▪ 2018/19 Semester 2 &nbsp; Teaching assistant for [MATH36022](http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-mmath/course-unit-spec/?unitcode=MATH36022) Numerical Analysis II  
-▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/course-units-offered/course-unit-spec/?unitcode=MATH20401) PDEs and Vector Calculus A
+## Current Teaching
+▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B  
+▪ 2020/21 Semester 1 &nbsp; Teaching assistant for [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization
+
+## Previous Teaching
+▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I  
+▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
+▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE 
+▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19681](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681) Mathematics for EEE
+▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222) Calculus and Applications A  
+▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH19842](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19842) Mathematics: Vectors and Probability  
+▪ 2018/19 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
+▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
 
 ## Links
-▪ Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!  
+▪ Webmaster and former Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!  
 ▪ Member of [SIAM](https://www.siam.org/) (Society for Industrial and Applied Mathematics).
 
 ## Contact details
