@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a Ph.D student in the [Numerical Linear Algebra group](https://nla-group.org/) at the School of Mathematics, University of Manchester, supervised by Prof. [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham/index.php) and co-supervised by Prof. [Francoise Tisseur](http://www.maths.manchester.ac.uk/~ftisseur/).  
+Hello! I am a Ph.D student in the [Numerical Linear Algebra Group](https://nla-group.org/) at the School of Mathematics, University of Manchester, supervised by Prof. [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham/index.php) and co-supervised by Prof. [Francoise Tisseur](http://www.maths.manchester.ac.uk/~ftisseur/).  
 The fundamental goal of my research is to compute matrix functions in multiprecision arithmetic, which is concerned with algorithms for evaluating matrix functions in arithmetic of precisions beyond the standard single and double. In particular, this includes the half precision arithmetic that is becoming prevalent on GPUs and arbitrary precision arithmetic.
 
 ## Research Interests
