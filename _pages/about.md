@@ -22,15 +22,19 @@ The fundamental goal of my research is to compute [matrix functions](https://en.
 ## Previous Teaching
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I  
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
-▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE 
+▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE
 ▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19681](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681) Mathematics for EEE
 ▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222) Calculus and Applications A  
 ▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH19842](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19842) Mathematics: Vectors and Probability  
 ▪ 2018/19 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
 ▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
 
+## Publications and Preprints 
+▪ [A Multiprecision Derivative-Free Schur-Parlett Algorithm for Computing Matrix Functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
+
 ## Links
-▪ Webmaster and former Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!  
+▪ Webmaster and former Treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/). 
+Welcome to [join us](http://www.maths.manchester.ac.uk/~siam/profile.php)!  
 ▪ Member of [SIAM](https://www.siam.org/) (Society for Industrial and Applied Mathematics).
 
 ## Contact details
