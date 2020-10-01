@@ -28,7 +28,7 @@ The fundamental goal of my research is to compute [matrix functions](https://en.
 ▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
 
 ## Publications and Preprints 
-▪ [A Multiprecision Derivative-Free Schur-Parlett Algorithm for Computing Matrix Functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
+▪ [A multiprecision derivative-free Schur-Parlett algorithm for computing matrix functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
 
 ## Links
 ▪ Nick Higham's [blog](https://nhigham.com/) on applied mathematics, software and workflow.   
