@@ -11,10 +11,10 @@ The fundamental goal of my research is to compute matrix functions in multipreci
 ▪ [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
 ▪ Numerical Algorithms
 
-## Current Teaching
+## Previous Teaching
+▪ 2020/21 Semester 2 &nbsp; Lead demonstrator for [MATH10212](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212) Linear Algebra B   
 ▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B   
 ▪ 2020/21 Semester 1 &nbsp; Teaching assistant for [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization  
-## Previous Teaching
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I  
 ▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
 ▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE  
@@ -25,11 +25,11 @@ The fundamental goal of my research is to compute matrix functions in multipreci
 ▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
 
 ## Publications and Preprints 
-▪ [A multiprecision derivative-free Schur-Parlett algorithm for computing matrix functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020. 21 pp.
+▪ [A multiprecision derivative-free Schur-Parlett algorithm for computing matrix functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020; revised March 2021 22 pp. To appear in SIAM J. Matrix Anal. Appl.
 
 ## Links
 ▪ [Nick Higham's blog](https://nhigham.com/) on applied mathematics, software and workflow.   
-▪ I am the webmaster of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/).  
+▪ I am the treasurer of [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/).  
 
 ## Contact details
 Office 2.111, [Alan Turing Building](http://www.maths.manchester.ac.uk/our-research/facilities/infrastructure/)  
@@ -39,4 +39,4 @@ Manchester, M13 9PL, UK
 
 Email: xiaobo.liu [at] manchester.ac.uk   
 _______________________________________________________________________________________________________________________________________________    
-<sub> Last modified: October 1, 2020 22:49:45 PM BST. </sub>
+<sub> Last modified: June 24, 2020 20:29:41 BST. </sub>
