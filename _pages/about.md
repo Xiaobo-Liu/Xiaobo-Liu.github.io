@@ -9,7 +9,7 @@ The fundamental goal of my research is to compute matrix functions in multipreci
 ## Research Interests
 ▪ [Numerical Analysis](https://www.maths.manchester.ac.uk/research/themes/numerical-analysis-and-scientific-computing/)  
 ▪ [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
-▪ Numerical Algorithms
+▪ [Numerical Algorithms](https://nhigham.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/)
 
 ## Previous Teaching
 ▪ 2020/21 Semester 2 &nbsp; Lead demonstrator for [MATH10212](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212) Linear Algebra B   
@@ -39,4 +39,4 @@ Manchester, M13 9PL, UK
 
 Email: xiaobo.liu [at] manchester.ac.uk   
 _______________________________________________________________________________________________________________________________________________    
-<sub> Last modified: June 24, 2020 20:29:41 BST. </sub>
+<sub> Last modified: June 24, 2021 20:29:41 BST. </sub>
