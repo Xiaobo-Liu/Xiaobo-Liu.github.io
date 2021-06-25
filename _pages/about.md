@@ -11,18 +11,13 @@ The fundamental goal of my research is to compute matrix functions in multipreci
 ▪ [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
 ▪ [Numerical Algorithms](https://nhigham.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/)
 
-## Previous Teaching
-▪ 2020/21 Semester 2 &nbsp; Lead demonstrator for [MATH10212](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212) Linear Algebra B   
-▪ 2020/21 Semester 1 &nbsp; Lead demonstrator for [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B   
-▪ 2020/21 Semester 1 &nbsp; Teaching assistant for [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization  
-▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I  
-▪ 2019/20 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
-▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE  
-▪ 2019/20 Semester 1 &nbsp; Lead demonstrator for [MATH19681](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681) Mathematics for EEE  
-▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH10222](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222) Calculus and Applications A  
-▪ 2018/19 Semester 2 &nbsp; Lead demonstrator for [MATH19842](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19842) Mathematics: Vectors and Probability  
-▪ 2018/19 Semester 2 &nbsp; Teaching assistant for [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II  
-▪ 2018/19 Semester 1 &nbsp; Teaching assistant for [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
+## Previous Teaching as a GTA
+▪ 2020/2021 S2 &nbsp; [MATH10212](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212) Linear Algebra B   
+▪ 2020/2021 S1 &nbsp; [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B, [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization   
+▪ 2019/2020 S2 &nbsp; [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I, [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II   
+▪ 2019/2020 S1 &nbsp; [MATH19661](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19661) Mathematics for MACE, [MATH19681](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH19681) Mathematics for EEE   
+▪ 2018/2019 S2 &nbsp; [MATH10222](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10222) Calculus and Applications A, [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II   
+▪ 2018/2019 S1 &nbsp; [MATH20401](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20401) PDEs and Vector Calculus A
 
 ## Publications and Preprints 
 ▪ [A multiprecision derivative-free Schur-Parlett algorithm for computing matrix functions](http://eprints.maths.manchester.ac.uk/2781/) (with N. J. Higham). MIMS EPrint 2020.19, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, September 2020; revised March 2021 22 pp. To appear in SIAM J. Matrix Anal. Appl.
