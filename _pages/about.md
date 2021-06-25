@@ -11,7 +11,7 @@ The fundamental goal of my research is to compute matrix functions in multipreci
 ▪ [Numerical Linear Algebra](https://www.maths.manchester.ac.uk/research/expertise/numerical-linear-algebra/)  
 ▪ [Numerical Algorithms](https://nhigham.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/)
 
-## Previous Teaching as a GTA
+## Previous Graduate Teaching Assistantship
 ▪ 2020/2021 S2 &nbsp; [MATH10212](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10212) Linear Algebra B   
 ▪ 2020/2021 S1 &nbsp; [MATH10131](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH10131) Calculus and Vectors B, [MATH36061](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36061) Convex Optimization   
 ▪ 2019/2020 S2 &nbsp; [MATH20602](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH20602) Numerical Analysis I, [MATH36022](https://www.maths.manchester.ac.uk/student-intranet/my-study/undergraduate/course-requirements/?unitcode=MATH36022) Numerical Analysis II   
